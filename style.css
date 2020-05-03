@@ -1,0 +1,11 @@
+
+
+#everything{
+    background-image: url("./images/websiteBackground.jpeg");
+    background-position: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    color: grey;
+}
